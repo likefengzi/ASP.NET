@@ -1,0 +1,7 @@
+D:\STUDY\.NET\Lab1.1\Lab1.1\bin\Debug\Lab1.1.exe.config
+D:\STUDY\.NET\Lab1.1\Lab1.1\bin\Debug\Lab1.1.exe
+D:\STUDY\.NET\Lab1.1\Lab1.1\bin\Debug\Lab1.1.pdb
+D:\STUDY\.NET\Lab1.1\Lab1.1\obj\Debug\Lab1.1.csprojAssemblyReference.cache
+D:\STUDY\.NET\Lab1.1\Lab1.1\obj\Debug\Lab1.1.csproj.CoreCompileInputs.cache
+D:\STUDY\.NET\Lab1.1\Lab1.1\obj\Debug\Lab1.1.exe
+D:\STUDY\.NET\Lab1.1\Lab1.1\obj\Debug\Lab1.1.pdb
