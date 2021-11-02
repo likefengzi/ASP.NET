@@ -1,0 +1,10 @@
+D:\STUDY\.NET\Lab3.6\obj\Debug\Lab3.6.csprojAssemblyReference.cache
+D:\STUDY\.NET\Lab3.6\obj\Debug\Lab3._6.Form1.resources
+D:\STUDY\.NET\Lab3.6\obj\Debug\Lab3._6.Properties.Resources.resources
+D:\STUDY\.NET\Lab3.6\obj\Debug\Lab3.6.csproj.GenerateResource.cache
+D:\STUDY\.NET\Lab3.6\obj\Debug\Lab3.6.csproj.CoreCompileInputs.cache
+D:\STUDY\.NET\Lab3.6\bin\Debug\Lab3.6.exe.config
+D:\STUDY\.NET\Lab3.6\bin\Debug\Lab3.6.exe
+D:\STUDY\.NET\Lab3.6\bin\Debug\Lab3.6.pdb
+D:\STUDY\.NET\Lab3.6\obj\Debug\Lab3.6.exe
+D:\STUDY\.NET\Lab3.6\obj\Debug\Lab3.6.pdb
