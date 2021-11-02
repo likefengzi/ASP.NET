@@ -1,0 +1,7 @@
+D:\STUDY\.NET\Lab3.4\bin\Debug\Lab3.4.exe.config
+D:\STUDY\.NET\Lab3.4\bin\Debug\Lab3.4.exe
+D:\STUDY\.NET\Lab3.4\bin\Debug\Lab3.4.pdb
+D:\STUDY\.NET\Lab3.4\obj\Debug\Lab3.4.csprojAssemblyReference.cache
+D:\STUDY\.NET\Lab3.4\obj\Debug\Lab3.4.csproj.CoreCompileInputs.cache
+D:\STUDY\.NET\Lab3.4\obj\Debug\Lab3.4.exe
+D:\STUDY\.NET\Lab3.4\obj\Debug\Lab3.4.pdb
