@@ -10,9 +10,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
-            <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Button" />
-            <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Button" />
+            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="日历1" />
+            <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="日历2" />
+            <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="日历3" />
             <asp:MultiView ID="MultiView1" runat="server" OnInit="MultiView1_Init">
                 <asp:View ID="View3" runat="server">
                     <asp:Calendar ID="Calendar3" runat="server" BackColor="White" BorderColor="Black" DayNameFormat="Shortest" Font-Names="Times New Roman" Font-Size="10pt" ForeColor="Black" Height="300px" NextPrevFormat="FullMonth" TitleFormat="Month" Width="400px" OnDayRender="Calendar3_DayRender">
